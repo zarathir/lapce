@@ -2640,7 +2640,7 @@ dependencies = [
  "flate2",
  "fs_extra",
  "fuzzy-matcher",
- "hashbrown 0.11.2",
+ "hashbrown 0.12.3",
  "im",
  "include_dir",
  "indexmap",
